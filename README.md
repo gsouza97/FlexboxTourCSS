@@ -1,6 +1,6 @@
 # About this
 
-Single Page para treinar flex-box
+Single Page para treinar flex-box de forma responsiva.
 
 # Technologies
 
